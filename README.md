@@ -5,7 +5,7 @@
 Customer churn is a major challenge for telecommunication companies. Identifying customers who are likely to leave can help businesses take proactive retention actions.
 
 This project develops a **Customer Churn Prediction system** using the 
-**<a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn", target="_blank">IBM Telco Customer Churn dataset** and **Logistic Regression**.
+**<a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn">IBM Telco Customer Churn dataset** and **Logistic Regression**.
 
 Dataset Likn: <a h>
 
